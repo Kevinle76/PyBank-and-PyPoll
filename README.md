@@ -1,6 +1,6 @@
-# Unit 3 Homework: Python
+# PyBank and PyPoll
 
-In this assignment, we'll complete two challenges in which we'll apply new Python skills. 
+In this job, we'll complete two challenges in which we'll apply new Python skills. 
 
 ## Background
 
