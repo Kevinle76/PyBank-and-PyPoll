@@ -1,10 +1,9 @@
 # PyBank and PyPoll
 
-In this job, we'll complete two challenges in which we'll apply new Python skills. 
-
 ## Background
 
-Both of these challenges present situation where our newfound Python scripting skills can come in handy. 
+A final script should both print the analysis to the terminal and export a text file with the results.
+
 
 ## PyBank:
 
@@ -58,6 +57,5 @@ In addition, a final script should both print the analysis to the terminal and e
   -------------------------
   ```
 
-In addition, a final script should both print the analysis to the terminal and export a text file with the results.
 
 
