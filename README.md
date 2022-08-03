@@ -1,6 +1,6 @@
 ## PyBank and PyPoll
 
-Creating a script to analyze the financial records of a company using Python
+Creating a script to analyze the financial records of a company, using Python
 
 ## Objectives:
 
