@@ -1,11 +1,10 @@
-# PyBank and PyPoll
+## PyBank and PyPoll
 
-## Background
+Creating a script to analyze the financial records of a company using Python
 
-A final script should both print the analysis to the terminal and export a text file with the results.
+## Objectives:
 
-
-## PyBank:
+1. PyBank:
 
 * The total number of months included in the dataset
 
@@ -28,9 +27,8 @@ A final script should both print the analysis to the terminal and export a text 
   Greatest Decrease in Profits: Feb-14 ($-1825558)
   ```
 
-In addition, a final script should both print the analysis to the terminal and export a text file with the results.
 
-## PyPoll:
+2. PyPoll:
 
 * The total number of votes cast
 
